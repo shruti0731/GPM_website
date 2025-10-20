@@ -62,6 +62,8 @@ The website can be hosted on:
 
 ---
 
+
+
 ## 👩‍💻 Developer
 **Shruti Chavan**  
 GitHub: [shruti0731](https://github.com/shruti0731)
